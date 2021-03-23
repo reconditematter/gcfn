@@ -1,1 +1,1 @@
-# gcfn -- Google Cloud Functions
+# gcfn -- Google Cloud Functions implemented in Go.
